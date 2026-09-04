@@ -1,5 +1,7 @@
 ## Olá, eu sou a Thaís Michele👋
 
+💻 Desenvolvedora Front-end em formação | HTML • CSS • JavaScript | Sistemas de Informação | Apaixonada por tecnologia e desenvolvimento web
+
 <div style= "display = inline_block"><br>
 <img width= "40" height = "30" aling= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
 <img width= "40" height = "30" aling= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -18,3 +20,7 @@
   <a href="https://www.linkedin.com/in/thaís-rodrigues-3a36882b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## Linguagens e Tecnologias 🤖
+
+
