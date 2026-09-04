@@ -23,4 +23,22 @@
 
 ## Linguagens e Tecnologias 🤖
 
+<div align="center"> <table> 
+      
+<tr>
+<td align="center" width="25%"> 
+### 🌐 **Web** 
+HTML CSS JavaScript 
+
+</td> <td align="center" width="25%"> 
+### ⚛️ **Front-end** React UI Responsividade 
+</td> <td align="center" width="25%"> 
+### 🐍 **Backend** Python APIs Banco de dados 
+</td> <td align="center" width="25%">
+### 🎨 **Design** Figma UI/UX Interfaces 
+</td> 
+</tr>
+</table> 
+
+</div>
 
